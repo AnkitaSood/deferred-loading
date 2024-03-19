@@ -1,11 +1,12 @@
 {
-  "name": "deferred-loading",
-  "short_name": "deferred-loading",
-  "theme_color": "#1976d2",
+  "name": "Meowmerica Wanderlust",
+  "short_name": "Meow",
+  "theme_color": "#ffffff",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
+  "id": "meowmerica.wanderlust",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
