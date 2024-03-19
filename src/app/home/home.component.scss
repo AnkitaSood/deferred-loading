@@ -10,12 +10,12 @@ button{
 
 .band-of-cats{
   background-image: url('../../assets/footer/band-of-cats.jpg');
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
   height: 400px;
-  margin-bottom: 50px;
+  margin-bottom: 2rem;
   border-top: 30px solid var(--border-highlight);
   a{
     text-align: center;

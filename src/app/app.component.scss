@@ -2,17 +2,10 @@
   width: 100%;
 }
 main {
-  width: 100%;
-  min-height: 100%;
   box-sizing: inherit;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-direction: column;
 }
 
-.content p {
-  margin-top: 1.5rem;
+.content {
+  padding: 1rem;
 }
 
